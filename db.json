@@ -1,0 +1,29 @@
+{
+    "hotels": [
+    {
+      "id": 1,
+      "name": "Hotel Sunshine",
+      "image": "images/pexels-deeanacreates-2565222.jpg",
+      "location": "Nakuru",
+      "amenities": ["Free WiFi", "Pool", "Spa"],
+      "likes": 10
+    },
+    {
+      "id": 2,
+      "name": "Mountain Retreat",
+      "image": "images/pexels-donaldtong94-189296.jpg",
+      "location": "Naivasha",
+      "amenities": ["Free Parking", "Pet Friendly", "Gym"],
+      "likes": 20
+    },
+    {
+      "id": 2,
+      "name": "Mountain View",
+      "image": "images/pexels-nguyendesigner-244133.jpg",
+      "location": "Naivasha",
+      "amenities": ["Free Parking", "Pet Friendly", "Gym"],
+      "likes": 20
+    }
+  ]
+
+}
